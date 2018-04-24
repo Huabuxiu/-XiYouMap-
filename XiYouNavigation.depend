@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1515044252 source:c:\users\public\cfile\xiyounavigation\main.c
+	"fun.h"
+
+1515047852 c:\users\public\cfile\xiyounavigation\fun.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1515047750 source:c:\users\public\cfile\xiyounavigation\fun.c
+	"fun.h"
+
