@@ -1,4 +1,4 @@
-<strong>介绍
+<strong>介绍<br>
 学习了数据结构课程中的一些简单的数据结构之后，用C语言和数据结构中的一些知识实现一个简易的学校的导航系统。
 > 基本上的功能如下：
 
@@ -19,9 +19,9 @@
 使用code::blocks编写<br>
 |_main.c  main函数的文件<br>
 |_fun.c    所有函数的实现<br>
-|_fun.h  数据结构的定义以及函数的声明<br>
-|_*.txt   地点信息文件<br>
+|__fun.h  数据结构的定义以及函数的声明<br>
+|__*.txt   地点信息文件<br>
 
 具体算法设计参考我的简书和CSDN博客<br>
-> https://www.jianshu.com/p/71353cce90a4
+> https://www.jianshu.com/p/71353cce90a4<br>
 > https://blog.csdn.net/huabuxiu/article/details/80069552
