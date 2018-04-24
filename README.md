@@ -5,7 +5,7 @@
 ![图片介绍](https://upload-images.jianshu.io/upload_images/2560151-a6128c9fb49273aa.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
-1. 数据结构采用图来存储信息，根据百度地图抽象出图的结构使用的是邻接矩阵，利用节点图，直接生成邻接矩阵的图数据结构。
+1. 数据结构采用图来存储信息，根据百度地图抽象出图的结构使用的是邻接矩阵，利用节点图，直接生成邻接矩阵的图数据结构。<br>
 ![学校平面图](https://upload-images.jianshu.io/upload_images/2560151-5bb0f175a67a2057.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![学校结点图](https://upload-images.jianshu.io/upload_images/2560151-83041d3b6d9f0d91.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
